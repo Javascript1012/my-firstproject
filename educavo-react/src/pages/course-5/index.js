@@ -42,7 +42,7 @@ const CourseFive = () => {
 
             {/* Course Main */}
            \
-            {/* Course Main */}
+            {/* Course Main change */}
 
             <Newsletter
                 sectionClass="rs-newsletter style1 orange-color mb--90 sm-mb-0 sm-pb-70"
