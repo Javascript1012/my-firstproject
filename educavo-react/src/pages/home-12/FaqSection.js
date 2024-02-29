@@ -79,7 +79,7 @@ const Faq = () => {
                                 <h2 className="title white-color">Register Free Courses</h2>
                             </div>
                             <form  
- id="contact-form" method="post" action="mailto:alhatshashikant10@gmail.com" onSubmit={sendEmail}>
+ id="contact-form" method="post" action="mailto:readershublibrary@gmail.com" onSubmit={sendEmail}>
                                 <div className="row">
                                     <div className="col-lg-6 mb-30 col-md-12">
                                         <input className="from-control" type="text" id="name" name="name" placeholder="Name" required />
